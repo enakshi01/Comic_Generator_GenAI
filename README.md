@@ -24,7 +24,7 @@ An AI-powered **Comic Strip Generator** that transforms any scenario into a 26-p
 
 ---
 
-## ⚙️ Installation
+##  Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/enakshi01/Comic_Generator_GenAI.git
