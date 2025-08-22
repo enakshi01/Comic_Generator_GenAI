@@ -1,15 +1,15 @@
-# 🎨 OnceUponAI - An Enchanted Start To Every Story
+#  OnceUponAI - An Enchanted Start To Every Story
 
 An AI-powered **Comic Strip Generator** that transforms any scenario into a 26-panel illustrated comic, complete with captions, styled artwork, and optional narration.  
 
-## 🚀 Features
-- 🖼️ **Panel Generation** – Splits a scenario into exactly 26 panels with captions.  
-- 🎭 **Genre & Style Classification** – Auto-detects genre and assigns a matching non-photorealistic art style.  
-- 🤖 **AI Storytelling** – Uses Google Gemini (`gemini-2.0-flash`) to craft panel narratives.  
-- 🎨 **Artwork Creation** – Leverages Stability AI to render custom images per panel.  
-- ✍️ **Text Overlay** – Uses `PIL` to add captions and speech bubbles to panels.  
-- 🔊 **Narration (TTS)** – Converts text to audio narration for the comic strip.  
-- 📚 **End-to-End Automation** – From input prompt → complete comic PDF/visual output.
+## Features
+-  **Panel Generation** – Splits a scenario into exactly 26 panels with captions.  
+-  **Genre & Style Classification** – Auto-detects genre and assigns a matching non-photorealistic art style.  
+-  **AI Storytelling** – Uses Google Gemini (`gemini-2.0-flash`) to craft panel narratives.  
+-  **Artwork Creation** – Leverages Stability AI to render custom images per panel.  
+-  **Text Overlay** – Uses `PIL` to add captions and speech bubbles to panels.  
+-  **Narration (TTS)** – Converts text to audio narration for the comic strip.  
+-  **End-to-End Automation** – From input prompt → complete comic PDF/visual output.
 
 ---
 
@@ -27,5 +27,5 @@ An AI-powered **Comic Strip Generator** that transforms any scenario into a 26-p
 ## ⚙️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/OnceUponAI.git
-   cd OnceUponAI
+   git clone https://github.com/enakshi01/Comic_Generator_GenAI.git
+   cd Comic_Generator_GenAI
