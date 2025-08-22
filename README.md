@@ -13,7 +13,7 @@ An AI-powered **Comic Strip Generator** that transforms any scenario into a 26-p
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python 3.9+**
 - [LangChain](https://www.langchain.com/) – Prompt orchestration  
 - [Google Generative AI (Gemini)](https://ai.google.dev/) – Scenario → panel breakdown  
